@@ -1,6 +1,6 @@
 # WebApp
 I developed the page to explore the boostrap library and design a website which is reponsive.
 
-Website link
+# Website link
 
-[a relative link](https://merebmlash-a6db6.firebaseapp.com)
+[Click here to go to merebmlash website](https://merebmlash-a6db6.firebaseapp.com)
